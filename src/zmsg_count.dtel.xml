@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZMSG_COUNT</ROLLNAME>
+    <DDLANGUAGE>1</DDLANGUAGE>
+    <HEADLEN>06</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>待处理消息数</DDTEXT>
+    <REPTEXT>待处理消息数</REPTEXT>
+    <SCRTEXT_S>待处理消息数</SCRTEXT_S>
+    <SCRTEXT_M>待处理消息数</SCRTEXT_M>
+    <SCRTEXT_L>待处理消息数</SCRTEXT_L>
+    <DTELMASTER>1</DTELMASTER>
+    <DATATYPE>INT2</DATATYPE>
+    <LENG>000005</LENG>
+    <OUTPUTLEN>000006</OUTPUTLEN>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Number of pending messages</DDTEXT>
+     <REPTEXT>Number of pending messages</REPTEXT>
+     <SCRTEXT_S>Number of</SCRTEXT_S>
+     <SCRTEXT_M>Number of pending me</SCRTEXT_M>
+     <SCRTEXT_L>Number of pending messages</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
